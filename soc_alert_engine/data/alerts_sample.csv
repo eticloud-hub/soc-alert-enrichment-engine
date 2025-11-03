@@ -1,0 +1,7 @@
+﻿timestamp,source_ip,destination_ip,alert_type,message
+2025-11-02T14:23:45Z,192.168.1.105,203.0.113.45,failed_login,10 failed SSH login attempts from 192.168.1.105
+2025-11-02T14:25:12Z,198.51.100.89,93.184.216.34,malicious_url,User accessed known phishing domain
+2025-11-02T14:27:33Z,203.0.113.78,198.51.100.50,port_scan,Suspicious port scanning detected on port 22, 3306, 5432
+2025-11-02T14:30:01Z,192.0.2.15,203.0.113.200,data_exfiltration,Unusual outbound traffic detected - 500MB transferred in 5 minutes
+2025-11-02T14:32:45Z,198.51.100.200,93.184.216.100,command_execution,Suspicious PowerShell execution detected
+2025-11-02T14:35:20Z,203.0.113.99,198.51.100.75,failed_login,5 failed login attempts from 203.0.113.99

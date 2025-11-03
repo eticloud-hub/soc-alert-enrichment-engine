@@ -1,0 +1,15 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+.DS_Store
+.env
+.vscode/
+.idea/
+*.log
+soc_alert_engine/data/soc_alerts.db
+soc_alert_engine/data/enriched_alerts.*
+dist/
+build/
+*.egg-info/
